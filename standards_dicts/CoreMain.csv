@@ -1,0 +1,440 @@
+PESC,AcademicCalendarCode,Calendar that applies to this student's educational program.  Must be valid or system accepted to process record.
+PESC,AcademicProgram,Academic Program(s) related to this Academic Summary
+PESC,AcademicProgramName,"Literal name of program, major, or field of study."
+PESC,AcademicProgramType,"Indicates whether the academic program is a major, minor, area of concentration or specialization."
+PESC,AcademicYearBeginDate,The date the student's academic year starts at the school.
+PESC,AcademicYearEndDate,The date the student's academic year ends at the school.
+PESC,AccreditingBodyCode,This is the acronym for the regional or other accrediting body that has given accreditation to the school sending the high school transcript
+PESC,AccreditingBodyName,The name of the accrediting body.
+PESC,ACT,The unique identifier assigned by the American College Testing or ACT for each postsecondary data exchange partner. See www.act.org.
+PESC,AdditionalUnsubsidizedEligibility,Is used to indicate when a borrower is receiving an additional unsubsidized loan because a parent failed a credit check for a PLUS loan (FSA).
+PESC,Address,This is a combined Address Group for a choice between Domestic or International
+PESC,AddressLine,"Local delivery information such as street, building number, PO box, or apartment portion of a postal address of a Contact at the Sending (Source) High School."
+PESC,Age,An integer that specifies how old a person is
+PESC,Age18To19,A gender breakdown within each age category as listed by the tag names.
+PESC,Age20To21,A gender breakdown within each age category as listed by the tag names.
+PESC,Age22To24,A gender breakdown within each age category as listed by the tag names.
+PESC,Age25To29,A gender breakdown within each age category as listed by the tag names.
+PESC,Age30To34,A gender breakdown within each age category as listed by the tag names.
+PESC,Age35To39,A gender breakdown within each age category as listed by the tag names.
+PESC,Age40To49,A gender breakdown within each age category as listed by the tag names.
+PESC,Age50To64,A gender breakdown within each age category as listed by the tag names.
+PESC,Age65AndOver,A gender breakdown within each age category as listed by the tag names.
+PESC,AgencyAssignedID,An identification number that has been assigned to the student by a state or province or other agency
+PESC,AgencyCode,A code that describes the type of agency that assigned the student's identification number
+PESC,AgencyName,"The name of the state, province or agency that assigned the identification number to the student"
+PESC,AgeUnder18,The count of students under 18 years of age.
+PESC,AgeUnknown,The count of students whose age is unknown.
+PESC,AlienRegistrationNumber,Alien Registration Number
+PESC,AlternateOutcomeFramework,A container to hold the alternative framework taxonomies that map to the learning outcome Alternative framework associated with learning in outcome  
+PESC,AlternativeLoanApplicationVersion,A code indicating the version of the alternative loan application used for the loan.
+PESC,AlternativeLoanProgramCode,A code indicating the specific category of the alternative loan.
+PESC,AmericanIndianOrAlaskaNative,A gender breakdown of persons having origins in any of the original peoples of North and South America (including Central America) who maintain cultural identification through tribal affiliation or community attachment.
+PESC,AnticipatedGraduationDate,The date on which the student is or was expected to graduate.
+PESC,APAS,Alberta Post-secondary Application System.
+PESC,AreaCityCode,Regional dialing code
+PESC,Asian,"A gender breakdown of persons having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam."
+PESC,ATP,The unique identifier assigned for the Admissions Testing Program by the College Board for each postsecondary data exchange partner.
+PESC,Attendance,A grouping of information on student attenance.
+PESC,AttendanceCost,"The estimated cost to attend school during the requested loan period, before subtracting any financial aid or expected family contribution. Note: The calculation used to derive Cost of Attendance for alternative loans may differ from the calculation used for FFELP loans."
+PESC,AttendanceStatusCode,The attendance status of a degree seeking student as defined by number of credit hours taken and student level.
+PESC,AttendanceStatusCodeBeginDate,The begin date of the attendance status referred to above.
+PESC,AttendanceStatusCodeEndDate,The end date of the attendance status referred to above.
+PESC,AttentionLine,The individual or office name within the postal address where inquiries should be directed.
+PESC,Attribute,Attributes of the Additional Student Achievement which may require special handling by the receiving institution
+PESC,AutomobileMonthlyPayment,The total monthly automobile payment paid by the credit data person.
+PESC,Birth,Identifying information related to a person's birth
+PESC,BirthCity,The city in which the person was born.
+PESC,BirthCountry,The name of the country in which the person was born.  Use ISO 3 155-1 alpha-2 standard. 
+PESC,BirthDate,Date of Birth
+PESC,Birthday,Month and Day of Birth
+PESC,BirthStateProvinceCode,"The state, province, or extra-state jurisdiction in which the person was born"
+PESC,BirthYear,Year of Birth
+PESC,BlackOrAfricanAmerican,A gender breakdown of persons having origins in any of the black racial groups of Africa.
+PESC,BookedLoanAmount,Total net amount of disbursements accepted and booked.
+PESC,BookedLoanAmountDate,The date the loan booked on COD.
+PESC,Borrower,This empty complex component is listed to indicate the logical grouping of components related to borrower information.
+PESC,CampusName,The name of the specific campus of the school to which the applicant is applying
+PESC,CancellationDate,The effective date of the cancellation.
+PESC,CCD,The unique identifier assigned by the US Department of Education's National Center for Education Statistics as the Common Core of Data for each K12 data exchange partner.
+PESC,CEEBACT,The unique identifier assigned by the College Entrance Examining Board and ACT for each K12 data exchange partner.
+PESC,CheckNumber,The identification number assigned to the check for disbursement.
+PESC,Citizenship,Information about the citizenship status of the applicant
+PESC,CitizenshipCountryCode,The country in which the applicant holds the status represented by the Citizenship Status Code above.
+PESC,CitizenshipStatusCode,Citizenship status of the applicant
+PESC,City,The city portion of the Address of a Contact at the Sending (Source) High School.
+PESC,CompletionDate,The date on which the student's requirements for the degree were met or completed.
+PESC,CompletionTime,Time counseling session was completed.
+PESC,CompositeName,"The full name of the person in Last NameSuffix, First Middle order; comma after last name or NameSuffix"
+PESC,ConditionsMetCode,Indicates whether and how conditions for the requirement have been attained.
+PESC,ConditionsMetDate,Date requirement was met.
+PESC,ConfirmationID,Confirmation ID supplied from the counseling session.
+PESC,ContactName,Name of the contact at the sponsoring organization
+PESC,Contacts,To identify a person or an office at the sending school  to which administrative communications should be directed
+PESC,ContactTitle,Job title or position of the contact at the sponsoring organization
+PESC,Count,The number of inclusive periods over which the ranking of the student is based.
+PESC,CountFemale,The number of females within a category.
+PESC,CountMale,The number of males within a category.
+PESC,CountryCode,The code that identifies the country in the world in which the agency that assigned the ID to the student is located.  .  Use ISO 3 155-1 alpha-2 standard.
+PESC,CountryPrefixCode,International dialing code
+PESC,CourseCIPCode,The Classification of Instructional Programs (CIP) code to describe the area of study for the course.
+PESC,CourseCreditEarned,The number of credits a student earned by the successful completion of a course.
+PESC,CourseCreditUnits,The type of credits used at the high school
+PESC,CPSTransactionNumber,Transaction number from eligible ISIR used to calculate award.
+PESC,CreatedDateTime,The Date and Time stamp when the document was created
+PESC,CreditAuthorizationIndicator,"True if the sending organization has obtained the borrower's authorization to perform a credit check. False, Otherwise."
+PESC,CreditCardMonthlyPayment,The total monthly credit card payment paid by the credit data person.
+PESC,CreditDecisionDate,The date on which the credit check decision was processed.
+PESC,CreditDecisionStatus,The status of the PLUS credit decision for the loan on COD.
+PESC,CreditHoursAttempted,The total value of credit hours attempted whether or not included in the hours for GPA or hours earned.
+PESC,CreditHoursDeficient,The number of credit units that the student still needs to complete in this curriculum area in order to receive the award or diploma
+PESC,CreditHoursEarned,The total value of credit hours successfully completed or earned.
+PESC,CreditHoursforGPA,The total value of credit hours used to calculate the Grade Point Average.
+PESC,CreditHoursRequired,The number of credit units needed to satisfy the graduation requirements in this area
+PESC,CreditOverrideCode,The status of the credit checks for this loan on COD as a result of an override.
+PESC,CreditUnderDifferentNameIndicator,A code indicating if the borrower has been granted credit under a different name.
+PESC,CreditUnit,"The type of credit (unit, semester, or quarter) associated with the credit hours earned for the course."
+PESC,CSIS,The unique identifier assigned by the Statistics Canada Canadian College Student Information System for each postsecondary data exchange partner
+PESC,DaysAbsent,The number of  days or partial days that the student did not attend classes this session
+PESC,DaysPresent,The number of  days or partial days that the student attended classes this session
+PESC,DebtData,This element provides a logical grouping of elements related to Debt Data.
+PESC,Deceased,Information related a student's death
+PESC,DeceasedIndicator,Indicates the person is deceased.
+PESC,DefaultOverpayCode,Indicates if the person is in default or owes a loan or grant overpayment.
+PESC,DegreeSeekingStatusCode,This basic core component identifies the degree student may enroll in courses that can be counted toward a degree or a Nondegree student may enroll in courses but they will not be counted toward a degree.
+PESC,Department,The department within and organization
+PESC,DependencyStatusCode,A code indicating if the applicant is a dependent or independent person concerning financial status
+PESC,Disbursement,A logical grouping of components related to disbursement information.
+PESC,DisbursementAmount,"For Pell, the amount of money credited to the student's account at the school or paid to the student (or borrower if PLUS) directly. For Direct Loan, this is the gross disbursement amount before the fee and interest rebate calculations are made. FFEL, the gross disbursement amount."
+PESC,DisbursementConfirmationIndicator,Indicates if the borrower at the school has confirmed this disbursement.
+PESC,DisbursementConsummationIndicator,A boolean indicating if the funds have been applied to the borrower account.
+PESC,DisbursementDate,The date money was credited to the student's account at the school or paid to the student (or borrower if a PLUS loan) directly.
+PESC,DisbursementDayOverrideIndicator,Override the disbursement date profile.
+PESC,DisbursementFeeAmount,The Fee Amount.
+PESC,DisbursementFeePaid,The amount of origination fees subsidized.
+PESC,DisbursementNetAmount,The net award amount.
+PESC,DisbursementReleaseIndicator,The indicator identifying if the Organization is submitting an actual disbursement used to substantiate cash that has been drawn down or may lead to change in the CFL.
+PESC,DisbursementReturnedAmount,The net amount returned.
+PESC,DisbursementSequenceNumber,The number that determines the order in which transactions must be processed for a given disbursement number.
+PESC,DisbursementStatusCode,This code indicates the status of the disbursement.
+PESC,DisbursementToBorrowerIndicator,True if the borrower is enrolled in a study abroad program and the borrower is requesting TIV funds be sent directly to them.' False otherwise.
+PESC,DisclosureStatementPrintCode,Indicates whether the school or COD will print the Disclosure Statement. The party (school or COD) who is responsible for mailing the Disclosure Statement is also responsible for printing and mailing the Plain Language Disclosure Statement.
+PESC,DLLoanInformation,A logical grouping of components related to Direct Loan information.
+PESC,DLPLUS,A logical grouping of components related to a Direct Loan PLUS award information.
+PESC,DLSubsidized,A logical grouping of components related to a Direct Loan Subsidized award information.
+PESC,DLUnsubsidized,A logical grouping of components related to a Direct Loan Unsubsidized award information.
+PESC,DocumentID,The File Transmission Date and Time stamp with additional unique qualifying characters
+PESC,DocumentStatusCode,Specifies the status of the processed document.
+PESC,DocumentType,Specifies a short description of the data in the document.
+PESC,DocumentTypeCode,Type and purpose of document being transmitted
+PESC,DriversLicense,Information about the claimant's driver's license
+PESC,DriversLicenseNumber,The number assigned by the issuing state or province to the claimant to operate a motor vehicle
+PESC,DriversLicenseState,A code indicating the person's Driver's License State.
+PESC,DUNS,"Data Universal Numbering System (DUNS), unique nine character company identification number issued by Dun and Bradstreet Corporation."
+PESC,EditProcessResult,A logical grouping of components used to respond application/business level edits to an inbound request.
+PESC,EducationalLoanMonthlyPayment,The total monthly educational loan payment paid by the credit data person.
+PESC,EducationLevel,The amount of formal education which the applicant has received
+PESC,EducationSubtestCode,"Code identifying the sub-part of a standardized test (e.g. Quantitative, Verbal).  These codes are the newer codes used in the XML Education Test Score Reporting and the Application for Admission schemas.  They are tied to each individual test.  "
+PESC,EducationTestCode,Code identifying the test in the newer XML version of Test Codes
+PESC,EffectiveDate,This the date when this address for the sending high school did or will become effective.
+PESC,EligibilityEndDate,"The date on which the student cease to be eligible for special programs, sholarships or loans."
+PESC,EligibilityPaymentReasonCode,Used to provide why school awarded Academic Competitive Grant.
+PESC,Email,Email address of source institution contact
+PESC,EmailAddress,"The numbers, letters, and symbols used to identify an electronic mail (Email) user within a network."
+PESC,Employer,"Information about the name of the employer (person or company, etc.) of this sponsor person of the applicant"
+PESC,Employment,This is all the previous and current employment reported by the applicant
+PESC,EmploymentBeginDate,The date that the claimant began employment
+PESC,EmploymentEndDate,The date that the claimant ended employment
+PESC,EmploymentStatusCode,The type of employment of the person who worked at the school to which the person is applying
+PESC,EMPNIndicator,This tag indicates whether there is an electronic or paper MPN.
+PESC,EndorserAmount,Total amount of loan for which the endorser has agreed to co-sign.
+PESC,EnrollDate,The date on which the student officially enrolled.
+PESC,EnrollmentDate,First date that the student was enrolled in an eligible program for the designated award year.
+PESC,EquivalentAcademicGrade,The grade earned for a course calculated under a different grade scale than the primary grade recorded
+PESC,EquivalentGradeScaleCode,The alternative grade scale under which the related EquivalentAcademicGrade is calculated
+PESC,eSignatureCustodian,A logical grouping of components related to eSignature custodian information.
+PESC,eSignatureIndicator,True if the signature is electronic. False otherwise.
+PESC,ESIS,The unique identifier assigned by the Statistics Canada Enhanced Student Information System for each postsecondary data exchange partner.
+PESC,EthnicityCode,The student's ethnicity code as recorded in the sending school's records.
+PESC,ExitDate,"The date on which the student officially withdrew, was withdrawn, or graduated."
+PESC,ExpirationDate,This the date when this address for the sending high school will no longer be valid.
+PESC,Father,A description of a male parent.
+PESC,FederalShareAmount,"The federal share portion of the Perkins, FSEOG, or FWS award amount."
+PESC,FICE,The unique identifier assigned for the Federal Interagency Committee on Education by the US Department of Education's National Center for Education Statistics for each postsecondary data exchange partner
+PESC,FinancialAward,A logical grouping of information about a financial award.
+PESC,FinancialAwardAmount,The total award amount that the parent is interested in borrowing for the PLUS loan.
+PESC,FinancialAwardAmountRequested,The total award amount that the parent is interested in borrowing for the PLUS loan.
+PESC,FinancialAwardBeginDate,The date when classes begin for the specific period covered by aid.
+PESC,FinancialAwardCreateDate,The date the school created the award record.
+PESC,FinancialAwardEndDate,The date when classes end for the specific period covered by aid.
+PESC,FinancialAwardID,"Specifies a unique identifier for a financial award across programs and systems, and across academic years."
+PESC,FinancialAwardNumber,A unique 2-digit identification number assigned by the guarantor at the time of guarantee or by the lender at the time of blanket guarantee. This number is used in conjunction with CommonLine Unique Identifier (field 22) to identify the loan. This number must be unique for each new loan resulting from an application. Any 2-digit number is valid.
+PESC,FinancialAwardType,Specifies the award type. A logical grouping of information about a financial award.
+PESC,FinancialAwardYear,The year corresponding to awards.
+PESC,FirstDisbursementIndicator,Flag identifying the disbursement with the earliest disbursement date.
+PESC,FirstEntryIntoUSDate,The date of the person's initial arrival into the United States in order to establish residency.
+PESC,FirstName,"The first name of the person, usually given at birth, baptism, or during, another ceremony, or through legal change"
+PESC,FISAPIncomeAmount,"This is a field to allow schools to override the total Taxable and Nontaxable Income for the student and parents, if dependent, or the student only if independent."
+PESC,FrameworkOutcome,information about the outcome of a learning activity Alternative framework skill taxonomy
+PESC,FrameworkOutcomeId,Identifier for outcome Alternative outcome id 
+PESC,FrameworkOutcomeValue,A container to hold the alternative framework taxonomies that map to the learning outcome Definition of alternative outcome taxonomy
+PESC,FrameworkSourceReference,URL of the alternative framework that has the outcome taxnomies URI of alternative framework
+PESC,FSACode,Code set to inform institutions of modifications that have been made to their database and require immediate action to rectify.
+PESC,FundsDistributionMethodCode,"A 1-character code indicating the method used by the school to return funds to the disbursing agent for the disbursement. E=EFT, M=Master Check, N=Netting, C=Correction to Post Disbursement Cancellations performed in error and there is no movement of funds."
+PESC,FWSP,A logical grouping of components related to a Federal Work-Study Program Award.
+PESC,Gender,Gender of the student
+PESC,GenderCode,The gender of the Student
+PESC,GEOCode,The unique identifier assigned by PESC for educational institutions.
+PESC,GPARangeMaximum,The maximum possible GPA
+PESC,GPARangeMinimum,The minimum possible GPA
+PESC,GradePointAverage,The value of the total quality points divided by the Credit Hours for Grade Point Average.
+PESC,GrossAnnualSalary,The total income earned by the borrower from his or her primary employment.
+PESC,GuaranteeFeeAmount,The fee charged by the Guarantor.
+PESC,GuaranteeFeePaid,The amount of guarantee fees subsidized.
+PESC,Guarantor,The organization description of the Guarantor
+PESC,HEALDebtAmount,"The borrower's total Health Education Assistance Loan (HEAL) debt prior to this loan period, as known by the sending organization."
+PESC,HighSchoolSubjectArea,The part of the high school curriculum area that is to be described and summarized
+PESC,HighSchoolSubjectAreaCode,This simple data element describes major areas of the high school curriculum 
+PESC,HighSchoolSubjectAreaName,The name of the major area of the high school curriculum
+PESC,HispanicAnyRace,"A gender breakdown of persons of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race."
+PESC,HomeOwnerIndicator,"True, if a person owns a home, False otherwise."
+PESC,HonorsLevel,"A code value representing 1st highest honor, 2nd highest and 3rd highest."
+PESC,HonorsTitle,The descriptive title for the honors received.
+PESC,HoursAppliedOtherProgram,Codes identifying the set of credit hours taken in other programs or degrees that were applied to the student's degree.
+PESC,HoursAppliedOtherProgramType,Codes identifying the set of credit hours taken in other programs or degrees that were applied to the student's degree. Codes identifying the set of credit hours taken in other programs or degrees that were applied to the student's degree.
+PESC,HoursAwardYear,Total number of credit/clock hours in all payment periods School expects this student to attend and be paid for during this Federal Pell Grant Award year.
+PESC,HoursProgramsAcademicYear,Total number of credit or clock hours in the School's definition of academic year for this student's Program of Study.
+PESC,HousingMonthlyPayment,The total monthly housing payment paid by the credit data person.
+PESC,HPPAIndicator,Indicates if the dependent student is eligible for an additional unsubsidized loan amount. This was formerly a HEAL loan.
+PESC,Immigration,"This is the current (or requested) immigration status, in the US or Canada, of the applicant as determined by the US or Canadian immigration authorities"
+PESC,ImmigrationI20RequestIndicator,An indicator as to whether or not the applicant has already requested a US Immigration Form I-20
+PESC,ImmunizationCode,Medical immunization or vaccine code from the Current Procedural Terminology (CPT) 2002 of the American Medical Association.
+PESC,ImmunizationDate,Date of immunization
+PESC,Immunizations,Information about immunizations
+PESC,ImmunizationStatusCode,Information about the number of the innoculation or the type of exemption
+PESC,IncarceratedIndicator,Indicator identifying if the student is incarcerated in local penal institution but otherwise eligible to receive Federal Pell Grants.
+PESC,IncomeData,This element provides a logical grouping of elements related to Income Data.
+PESC,InstructionUsage,The use of the language in the context of instruction.Instruction - Language of InstructionExamination - Language of ExaminationWrittenExam - Language in which Examination is written
+PESC,InterestRateOption,Indicates the type of interest rate associated with the loan.
+PESC,InterestRebateAmount,The Upfront Interest Rebate Amount.
+PESC,InterestRebatePercent,The upfront interest rebate percentage for the disbursement.
+PESC,IPEDS,The unique identifier assigned by the National Center for Education Statistics for the Integrated Postsecondary Education Data System for each postsecondary data exchange partner.
+PESC,Language,Language associated with one or more aspects of the Additional Student Achievement
+PESC,LanguageCode,"Code indicating the language being used, using ISO 639-2 code (Alpha-3) set. These codes are available at http://www.loc.gov/standards/iso639-2/"
+PESC,LanguageProficiency,Adeptness in comprehending and using the language
+PESC,LanguageUsage,Indication of person's use of the language
+PESC,LastName,The last name or surname by which a person is legally known
+PESC,LateDisbursementindicator,Indicates whether the disbursement will be issued after the earlier of the Loan Period End Date or the last day of at least half-time enrollment.
+PESC,LearningOutcomeDescription,Program learning outcome and the outcome evaluations and alternative outcome mapping The narrative of course learning outcomes.
+PESC,LearningOutcomeProficiencyCode,Assessment of learning proficiency Assessment of learning proficiency
+PESC,LearningOutcomeQualificationAssessment,Information aobut the assessent used to evaluate a learning experience Learning Outcome Assessment
+PESC,LearningOutcomeSkillCode,Learning Outcome Skill based on DQP intellectual skills Learning Outcome Skill based on DQP intellectual skills
+PESC,Lender,The organizational description of the Lender.
+PESC,LessThanFullTimeIndicator,Flag indicating if student is less than full-time.
+PESC,Licensure,Licensure requirements satisfied by successful completion of the Additional Student Achievement
+PESC,LicensureFulfillmentCode,A code that indicates the degree to which the licensure requirements were met.
+PESC,LicensureName,Free-form name of license or certification.
+PESC,LicensurePassageDate,Date of licensure passage
+PESC,LicensureStateProvinceCode,Code for US states and Canadian provinces.
+PESC,LoanInformation,A logical grouping of components across all loans.
+PESC,LoanKey,Specifies related loan information.
+PESC,LocalEthnicityRaceCode,"The student's race and ethnicity code as defined by the sending school's state, province or region."
+PESC,LocalOrganizationID,"A code set typically used by a state, province or region to further identify the sending school."
+PESC,LocalOrganizationIDCode,"The code assigned for the sending school by the state, province or other mutually defined agency specified in the LocalIDQualifier that follows."
+PESC,LocalOrganizationIDQualifier,"This is the state, province or other mutually defined agency that assigned the Local ID Code above."
+PESC,LocalRaceEthnicityCode,"The student's race and ethnicity code as defined by the sending school's state, province or region."
+PESC,LowTuitionFeesCode,Indicator identifying tuition ranges when the annual tuition is less than or equal to minimum defined by low tuition and fees table.
+PESC,Marital,Information about the marital status of the sponsor
+PESC,MaritalStatusChangeCode,Information related to the change in marital status of the family member of the applicant
+PESC,MaritalStatusCode,A code identifying marital status of this family member
+PESC,MiddleName,"A secondary name of the person, usually given at birth, baptism, or during another naming ceremony or through legal change"
+PESC,MilitaryRelationshipStatusCode,This is a code to indicate the relationship of the applicant with the military (specific branch of the Military)
+PESC,MonthsAtAddress,The number of months the person to whom the credit data applies has been at the address indicated.
+PESC,Mother,A description of a female parent.
+PESC,MPNID,The MPN identifier printed on the MPN.
+PESC,MPNLinkIndicator,The Master Promissory Note indicator is used to indicate whether or not the record has been linked to an MPN at COD.
+PESC,MPNStatusCode,The status of the MPN on file at COD.
+PESC,MutuallyDefined,This code set could be used by prior agreement  among a set of trading partners.
+PESC,NAICS,NAICS code for industry for an employer (North American Industry Classification System)
+PESC,Name,The name of record of the student at the sending institution
+PESC,NameCode,This data element is used to describe the type of name included in this complex data element
+PESC,NamePrefix,"An honorific, title or form of address that precedes the name."
+PESC,NameSuffix,The expression of an individual's generation within a family.
+PESC,NameTitle,"An honorific, title or credential that follows the name."
+PESC,NativeHawaiianOrPacificIslander,"A gender breakdown of persons having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands."
+PESC,NCHELPID,The unique identifier assigned by National Council on Higher Education Loan Programs for each data exchange partner.
+PESC,NegativePendingAmount,"The amount by which the Pell award is overpaid (i.e., sum of disbursements exceeds Award Amount). School must adjust either award amount or disbursement amount within 30 days to avoid a COD-generated negative disbursement."
+PESC,NonEDBranchID,The unique identification code (maximum of 4 characters) assigned by an entity other than ED to the branch office of the direct recipient of receiving this file. This ID is unique to the entity that assigned it and can be used by the sending organization. The unique identification code (maximum of 4 characters) assigned by an entity other than ED to the branch office of the direct recipient of receiving this file. This ID is unique to the entity that assigned it and can be used by the sending organization.
+PESC,NonImmigrantVisaIssueDate,The date the applicant's current visa was issued
+PESC,NonImmigrantVisaNumber,The number assigned by the issuing post for this visa for this international applicant once the application is approved
+PESC,NonImmigrantVisaStatusChangeCode,An Indication of a change that occurred in the non-imigrant (Visa) classification.
+PESC,NonImmigrantVisaStatusChangeDate,The date on which an official change to the non-immigrant (visa) status occurred.
+PESC,NonImmigrantVisaType,The type of visa currently held by the international applicant
+PESC,NonresidentAlien,A gender breakdown of all nonresident aliens regardless of race.
+PESC,NoteMessage,Additional information about a financial aid disbursement
+PESC,Occupation,The name of the occupation of the sponsor person
+PESC,OkToContact,"If known, this is the information that the applicant has provided that it is OK to contact the person at the sponsoring organization about additional information "
+PESC,ONET,ONET code for position (ONET codes defined by Department of Labor)
+PESC,OPEID,The unique identifier assigned by the Office of Postsecondary Education for each data exchange partner.
+PESC,Organization,"Non-person entity such as Organization, Institution, Agency or Business."
+PESC,OrganizationName,"Name of Non-person entity such as Organization, Institution, Agency or Business."
+PESC,OriginationFeePercent,The origination fee percent used for this record.
+PESC,OtherDebtAmount,"The borrower's total other student educational loan debt prior to this loan period, as known by the sending organization, including both federal and alternative loans."
+PESC,OtherIncome,The total income earned by the borrower from other than his or her primary employment.
+PESC,OtherIncomeSource,The source of the other income amount.
+PESC,OtherLoansThisPeriodDebtAmount,"The borrower's total other student educational loan debt for this loan period, as known by the sending organization, including both federal and alternative loans."
+PESC,OtherMonthlyPayment,The total monthly other (need better wording) payment paid by the credit data person.
+PESC,OutstandingCancellationAmount,The portion of the cancellation amount still outstanding.
+PESC,PaidParticipationIndicator,An indication that the student received payment in conjunction with the student activity.
+PESC,ParentsMaritalStatusCode,Information about the marital status of the applicant's family
+PESC,PaymentData,This element provides a logical grouping of elements related to Payment Data.
+PESC,PaymentMethodologyCode,Formula used to calculate the student's Federal Pell Grant Award.
+PESC,PaymentPeriodStartDate,Beginning date of the Payment Period.  Used to pay on awards submitted by schools that have become ineligible.
+PESC,PaymentToServicerAmount,Amount of payment sent to the Servicer by the borrower.
+PESC,PaymentToServicerDate,The date the Servicer posted the payment to the student's account.
+PESC,Pell,A logical grouping of components related to Pell Grant information.
+PESC,Percentage,"Indicates the count of items within a specific category, and the percentage that the count of items represents."
+PESC,Perkins,A logical grouping of components related to a Perkins Loan.
+PESC,PerkinsDebtAmount,"The borrower's total Perkins loan debt prior to this loan period, as known by the sending organization."
+PESC,Person,Biographical and demographic information about the student.
+PESC,Phone,Phone number of source institution contact
+PESC,PhoneNumber,Telephone number
+PESC,PhoneNumberExtension,"The extended telephone addressing information used in addition to phone number such as a PBX extension, a pager PIN, or FAX sub-address"
+PESC,PositionTitle,Job title or position of the contact at the endorsing organization
+PESC,PostalCode,The postal code portion of the Address.
+PESC,PostwithdrawalReturnCorrectionIndicator,Indicates if the request is a correction to a Post-Withdrawal Return.
+PESC,PostwithdrawalReturnDate,The date the school forwarded the return to the disbursing agent.
+PESC,PreprofessionalCoursework,A logical grouping of information on the course work required to qualify for professional education.
+PESC,PreviouslyReportedIndicator,Indicates if the disbursement adjustment was reported on a previous disbursement roster.
+PESC,PreviousPostwithdrawalReturnAmount,The net amount of the disbursement returned by the school previously.
+PESC,PrivacyRestriction,Request by the applicant to restrict access to certain data that may normally be released under the US Family Educational Rights and Privacy Act
+PESC,PrivacyRestrictionDate,The date upon which the requested restriction to the allowable release of FERPA directory information takes effect after the applicant has become a student
+PESC,PrivacyRestrictionLevel,"The type of restriction placed on the release of information.00  No restrictions have been placed on the release of information 01  Student has requested that no directory information be released without prior consent02  Student has requested nonrelease of specific information items03  Student has requested nonrelease of information in specific formats (book, electronic, etc.)04  Student has requested nonrelease of information to specific people, entities 99  Other  (to be specified in the NoteMessage)"
+PESC,ProcessDate,Specifies the date the document information was processed.
+PESC,Proficiency,Proficiency level signified by successful completion of the Additional Student Achievement
+PESC,ProgramCIPCode,Code indicating a discipline or field of study assigned by the Classification of Instructional Programs for Postsecondary Institutions
+PESC,ProgramCSISCode,Code indicating a discipline or field of study assigned by Statistics Canada Canadian College Student Information System
+PESC,ProgramESISCode,Code indicating a discipline or field of study assigned by the Statistics Canada Enhanced Student Information System.
+PESC,ProgramHEGISCode,Code indicating a discipline or field of study assigned by Higher Education General Information Survey
+PESC,ProgramLevel,Award level of program.
+PESC,ProgramLocalCode,This is a code typically created and used within a school or school district
+PESC,ProgramSecondarySchoolCode,Code indicating the type of secondary school program or award that a student is pursuing
+PESC,ProgramUSISCode,Code indicating a discipline or field of study assigned by the Statistics Canada University Student Information System.
+PESC,PromissoryNotePrintCode,The Promissory Note print option used for this record.
+PESC,PSIS,The unique identifier assigned by the Statistics Canada Enhanced Student Information System for each data exchange partner.
+PESC,PSS,The unique identifier assigned to private K12 schools in the US by the US Department of Education's National Center for Education Statistics (NCES)
+PESC,RaceCode,The student's race code(s) as recorded in the sending school's records.
+PESC,RaceEthnicity,The student's race and ethnicity code as recorded in the sending school's records using the format in effect prior to 2008.
+PESC,RaceEthnicityCode,The student's race and ethnicity code as recorded in the sending school's records.
+PESC,RaceEthnicityUnknown,A gender breakdown of all persons whose race and ethnicity are not known.
+PESC,RAPCode,Requirement demonstrated or earned in addition to or as part of an academic award.
+PESC,RAPName,Literal name of requirement
+PESC,RAPSubName,Literal name of subsection of requirement
+PESC,Recruited,Indication that the student was recruited in this area by the postsecondary institution.
+PESC,RelationshipCode,The relationship of the parent or guardian to the student
+PESC,ReligiousAffiliation,The religion or religious group with which the individual most identifies. 
+PESC,RepaymentOptionCode,Indicates the type of repayment option requested by the borrower.
+PESC,ReportedValue,The value reported in the tag contained in the ResponseErrorField.
+PESC,RequiredFormsReceiveDate,The date on which the institution received the required forms from an international student associated with postsecondary study in the United States.
+PESC,Requirement,Curriculum requirements satisfied by successful completion of the Additional Student Achievement
+PESC,Residency,Where the student currently resides
+PESC,Response,A logical grouping of components related to disbursement information.
+PESC,ResponseCode,Indicates a method to override the Organization's profile or defaults for the response.
+PESC,ResponseErrorCode,Edit result from COD processing.
+PESC,ResponseErrorField,Indicates the tag referenced by ResponseErrorCode.
+PESC,ResponseErrorValue,The new value in a field if a correction is applied.
+PESC,ResponseFinancialSummary,A logical grouping of components related to Response Financial Summary Information.
+PESC,ResponseMessage,The text of the edit result. This field is transmitted only via web applications.
+PESC,ResponseSummary,The number of responses sent to a school.
+PESC,RigorousHighSchoolProgram,Description of a High School Program.
+PESC,ScheduledPellGrant,Scheduled amount for a full time student.
+PESC,SchoolAssignedPersonID,School Assigned Identifier Type
+PESC,SchoolLevel,Indicates level of Override School
+PESC,SchoolSponsored,Indicates if the activity was sponsored by the school.
+PESC,ScoreInvalidatedIndicator,"Indicates if the score has been invalidated.  If true, score previously reported for this test and test date is not valid."
+PESC,ScoreRevisedIndicator,"Indicates if the score report has been revised.  If true, score may differ from score previously reported for this test and test date."
+PESC,ScoreSelfreportedIndicator,Indicates if the score has been self-reported by the student.
+PESC,ScoreValue,The actual value of the score received on the test
+PESC,SecondaryEFCCode,Indicator of EFC value used to determine award amount.
+PESC,SelectiveServiceIndicator,"This is used to indicate if the applicant is required to register in the US for the draft.  If so, use True."
+PESC,SelectiveServiceNumber,This is the Selective Service Number issued by the US government
+PESC,SEOG,A logical grouping of components related to a Federal Secondary Education Opportunity Grant.
+PESC,SessionBeginDate,Actual calendar date when session begins.
+PESC,SessionDesignator,The academic session for which the data are recorded and applicable.
+PESC,SessionDesignatorSuffix,A free form extension to the session ID to differentiate discreet sub-sessions within the same session
+PESC,SessionEndDate,Actual calendar date when session ends.
+PESC,SessionName,Free-form name of session.
+PESC,SessionSchoolYear,This is the range of years that are considered to be a school year.  
+PESC,SessionType,Indicates the type of academic session at an educational institution.
+PESC,SignatureDate,The date the signature occurred.
+PESC,SignatureSourceCode,This code indicates the source of the signatures.
+PESC,SLSDebtAmount,"The borrower's total Federal Supplemental Loans for Students (SLS) debt prior to this loan period, as known by the sending organization."
+PESC,SoftwareProvider,The software provider and product. Provider cannot be sent without the Version element.
+PESC,SoftwareVersion,The software version number.
+PESC,SpecialProgramAdmissionIndicator,"True if student was admitted to a special program, false otherwise."
+PESC,Sponsor,"Organization, company, school, person, etc. that sponsored the award"
+PESC,SponsorOrganization,Information about the organization that has offered to sponsor the international applicant
+PESC,SponsorPerson,Information about the person that has offered to sponsor the international applicant
+PESC,SponsorType,"Organization, company, school, person, etc. that sponsored the award"
+PESC,SSN,The person's U.S. Social Security Number
+PESC,StaffordLoanDebtAmount,"The borrower's total Federal Stafford loan debt prior to this loan period, as known by the sending organization."
+PESC,StateProvince,"The literal name of the state, province or territory of a postal address of the source of this document. Use for addresses outside US or Canada."
+PESC,StateProvinceCode,The code that identifies the state or province in the US or Canada in which the agency that assigned the identification number to the student is located.
+PESC,StudentActivitiesCode,Code for extracurricular activities engaged in by the student.
+PESC,StudentLevel,The classification of the student at the time the student took the test
+PESC,StudentLevelCode,The current grade level of the student or the highest grade level attained by the student at the time the record was created.
+PESC,Subtest,Subdivision of a standardized test 
+PESC,SubtestCode,"Code identifying the sub-part of a standardized test (e.g. Quantitative, Verbal).  These codes are the older codes originally included in the EDI transaction sets.  They are tied to each individual test. "
+PESC,SubtestName,Name of the sub-part of a standardized test
+PESC,TestCode,Code identifying the test in the older EDI version of Test Codes 
+PESC,TestDate,Date of the test
+PESC,TestName,Name identifying the test
+PESC,TestScoreMethod,Code identifying the method used to measure and report the test scores
+PESC,TestScores,The score received on the test
+PESC,TestYear,Date of the test when only the year is available
+PESC,TestYearMonth,Date of the test when only the month and year are available
+PESC,ThesisDissertationAdvisor,The advisor (Major Professor) supervising the Thesis or Dissertation on behalf of the student earning the degree.
+PESC,ThesisDissertationTitle,The title of the thesis or dissertation.
+PESC,TotalAllAge,The total count of students of all ages.
+PESC,TotalAllRaceEthnicity,A gender breakdown of all students regardless of race/ethnicity.
+PESC,TotalCancellationAmount,Total amount cancelled
+PESC,TotalCount,Specifies the total number of awards in this document. This information is summarized by program by award year.
+PESC,TotalCountAccepted,Total number of accepted awards in this document. This information is summarized by award type and by award year.
+PESC,TotalCountAllGenders,The total number of males and females within a category.
+PESC,TotalCountCorrected,Total number of corrected awards in this document. This information is summarized by award type by award year.
+PESC,TotalCountDuplicate,Total number of duplicate awards in this document. This information is summarized by award type by award year.
+PESC,TotalCountRejected,Total number of rejected awards in this document. This information is summarized by award type by award year.
+PESC,TotalCountSSAdministration,Total number of students in this document that are reported by CPS to have an SSA match not equal to 4. This information is summarized by award type by award    year.
+PESC,TotalCountVerificationSelected,Total number of students in this document that are reported selected for verification by CPS. This information is summarized by award type by award year.
+PESC,TotalDeficitAmount,Total deficit
+PESC,TotalEligibilityUsed,"For Pell, total percentage of the student's annual Pell eligibility used for all schools for the specific award year. For ACG and National SMART Grant, total percentage of the student's eligibility used at each applicable grade level across all award years and    schools."
+PESC,TotalFinancialAwardAccepted,The total dollar amount accepted in this document.
+PESC,TotalFinancialAwardCorrected,The total dollar value reported in this document for corrected Pell disbursements.
+PESC,TotalFinancialDisbursementAccepted,The total dollar amount accepted in this document.
+PESC,TotalFundedDisbursementAccepted,The total dollar amount funded in this document.
+PESC,TotalNetDisbursementAmount,Total loan or grant disbursed
+PESC,TotalNetEFTAmount,Total EFT Disbursed
+PESC,TotalNetNonEFTAmount,Total non-EFT disbused
+PESC,TotalNettedCancellationAmount,Total amount netted on cancellation
+PESC,TotalNonFundedDisbursementAccepted,The total dollar amount not funded in this document.
+PESC,TotalNumberAwards,The number of Financial Aid awards awarded by a school.
+PESC,TotalOutstandingCancellationAmount,Total outstanding from cancellation
+PESC,TotalQualityPoints,The total value of quality points used for the calculation of the Grade Point Average.
+PESC,TotalReissueAmount,Total amount reissued
+PESC,TotalReportedAward,The total dollar value for awards reported in this document. This information is summarized by program by award year. This tag is listed in the Reported Summary and the Program Year Summary complex elements.
+PESC,TotalReportedDisbursement,"The total dollar value reported in this document. For Direct Loan, this is the total gross disbursement amount. This information is summarized by program by award year. This tag is listed in the Reported Summary and the Program Year Summary complex elements."
+PESC,TotalStudentLoanDebtAmount,Total combined Student Loan Debt.
+PESC,TransmissionType,The nature of the transmission
+PESC,TwoOrMoreRaces,"A gender breakdown of persons who claim two or more races, not previously counted in another race or ethnicity count."
+PESC,UndergradHoursInGradDegree,The number of hours a student used as part of the graduate degree.
+PESC,URL,The Uniform Resource Locator of source institution
+PESC,URLAddress,The Uniform Resource Locator (URL) address of the sending high school or of a contact at the sending high school
+PESC,USIS,The unique identifier assigned by the Statistics Canada University Student Information System for each postsecondary data exchange partner 
+PESC,USStudyFormsReceipt,An indication of the institution's receipt of forms or documents needed from non-american citizens for postsecondary study in the United States.
+PESC,VerificationStatusCode,Verification status of the applicant as reported by the school.
+PESC,VisaExpirationDate,The date the applicant's current visa will expire
+PESC,WeeksProgramsAcademicYear,Total number of weeks of instructional time in the School's definition of academic year for this student's Program of Study.
+PESC,WeeksUsedCalculate,"Total Number of weeks of instructional time in the payment periods for which this student is eligible.  Valid Values depend upon Payment Methodology and Academic Calendar fields.  Must be completed when Payment Methodologies 2, 3, 4, or 5 are used."
+PESC,White,"A gender breakdown of persons having origins in any of the original peoples of Europe, the Middle East, or North Africa."
+PESC,YearsAtAddress,The number of years the person to whom the credit data applies has been at the address indicated.
+PESC,YTDDisbursementAmount,"For Pell and TEACH Grant, the total amount that has been disbursed to the student for the award year at all schools. For ACG and National SMART Grant, the total amount that has been disbursed to the student for the award."
